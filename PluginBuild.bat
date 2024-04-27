@@ -1,0 +1,1 @@
+B:\UnrealEngine\UE_5.4\Engine\Build\BatchFiles\RunUAT.bat BuildPlugin -Plugin="B:\Projects\XVisionDemo\Plugins\XVision\XVision.uplugin" -Package="B:\Projects\XVisionDemo\Builds\XVision" -Rocket -2019
